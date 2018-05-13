@@ -11,7 +11,6 @@ import "fmt"
 
 const (
 	primeNum = 10001
-	workers  = 10
 )
 
 // Sends the sequence 2,3,4... to ch.
